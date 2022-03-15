@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hannabadaboe
+- 👋 Hi, I’m ..
 - 👀 I’m interested in programming and other tech stuff
 - 🌱 I’m currently learning programming and web development 
 - 💞️ I’m looking to collaborate on (maybe not now, I'm still a student)
